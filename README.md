@@ -1,8 +1,8 @@
-**# Edu-Collab-Crowd-Visual
+# Edu-Collab-Crowd-Visual
 ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 # 智慧教育-工业仿真-人群与运动-虚拟现实
 学术的仓库，人生的奥德赛。
-**# Edu-Collab-Crowd-Visual
+# Edu-Collab-Crowd-Visual
 ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 # 智慧教育-工业仿真-人群与运动-虚拟现实
 学术的仓库，人生的奥德赛。
@@ -13,7 +13,7 @@ ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 
 **分享时间**：一小时以内，留出时间进行交流提问。
 
-**PPT要求**：大20~50页，每页介绍1~2分钟，少字 多图 多讲。
+**PPT要求**：大20-50页，每页介绍1-2分钟，少字 多图 多讲。
 
 - 读论文的模板：[Paper Read Template](https://glass-croissant-6e7.notion.site/Paper-Read-Template-f6968adfd10c490c8923f1251e03eaf9?pvs=4)
 - 论文分享模板：[科研论文分享模板](资金不足，演员未定，剧本暂无)
