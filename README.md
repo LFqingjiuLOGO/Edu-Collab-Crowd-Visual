@@ -39,7 +39,7 @@ ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 | 日期         | 分享人 | 主题|  PPT | 视频 |
 |------------|-----|-----|----|----|
 | 2024-08-28 | 在校全员 | 2024-2025上半 新学期规划 | [PPT链接](资金不足，演员未定，剧本暂无) | [视频链接](https://www.bilibili.com) |
-| 2024-09-03 | 某某某 | UFO：微软打造的全新智能操作系统 | [PPT链接](资金不足，演员未定，剧本暂无) | [视频链接](https://www.bilibili.com) |
+| 2024-09-03 | 某某某 | UFO：微软打造的全新智能操作系统 | [PPT链接](资金不足，演员未定，剧本暂无) | [https://www.bilibili.com](https://www.bilibili.com/video/BV1bm41117XN/?spm_id_from=333.788&vd_source=9da68956319d1d510dbd7f2f068360c1)  |
 
 ## 候选题目
 
