@@ -41,6 +41,10 @@ ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 | 2024-08-28 | 在校全员 | 2024-2025上半 新学期规划 | [PPT链接](资金不足，演员未定，剧本暂无) | [视频链接](https://www.bilibili.com) |
 | 2024-09-09 | 罗巨鹏 | 论文分享：超图推荐系统 | [超图推荐](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20240909-%E7%BD%97%E5%B7%A8%E9%B9%8F-%E8%B6%85%E5%9B%BE%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F.pdf) | [https://www.bilibili.com]()  |
 | 2024-09-09 | 摆冬冬 | 论文分享：BinaryOpacityGrids | [BinaryOpacityGrids](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20240909-%E6%91%86%E5%86%AC%E5%86%AC-BinaryOpacityGrids.pdf) | [https://www.bilibili.com]()  |
+| 2024-09-23 | 李弋豪 | 论文分享：GREIL-Crowds | [GREIL-Crowds](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20240923-%E6%9D%8E%E5%BC%8B%E8%B1%AA-GREIL-Crowds.pdf) | [https://www.bilibili.com]()  |
+| 2024-09-23 | 刘峻宇 | 论文分享：MAMBA | [MAMBA](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20240923-%E5%88%98%E5%B3%BB%E5%AE%87-mamba.pdf) | [https://www.bilibili.com]()  |
+| 2024-09-30 | 侯瀚茗 | 论文分享：PhysicallyBasedDL | [PhysicallyBasedDL](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20240930-%E4%BE%AF%E7%80%9A%E8%8C%97-PhysicallyBasedDL.pdf) | [https://www.bilibili.com]()  |
+
 
 ## 候选题目
 
