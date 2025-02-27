@@ -19,19 +19,19 @@ ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 
 | 名字 | 分享次数 | 名字 | 分享次数 | 名字 | 分享次数 |
 |---|---|---|---|---|---|
-| 李弋豪 |  ⭐⭐  | 芦紫妍 |    | 李亚城 |  ⭐  |
-| 刘  畅 |    | 何宸洋 |    | 胡苓格 |    |
-| 陈宇婷 |  ⭐  | 梁佳玮 |    | 王  硕 |  ⭐  |
-| 刘峻宇 |  ⭐⭐  | 关晓宇 |  ⭐  | 刘楚云 |    |
+| 李弋豪 |  ⭐⭐  | 李坤泽 |    | 李亚城 |  ⭐  |
+| 刘  畅 |    | 芦紫妍 |    | 胡苓格 |    |
+| 陈宇婷 |  ⭐  | 何宸洋 |    | 王  硕 |  ⭐  |
+| 刘峻宇 |  ⭐⭐  | 梁佳玮 |  ⭐  | 刘楚云 |    |
 | 王佳琪 |    | 侯瀚茗 |  ⭐  | 徐晗晖 |    |
-| 摆冬冬 |  ⭐⭐  | 李坤泽 |  ⭐  | 王梓宪 |    |
+| 摆冬冬 |  ⭐⭐  | 关晓宇 |  ⭐  | 王梓宪 |    |
 | 唐睿达 |    | 王海腾 |  ⭐  | 张博文 |    |
 | 罗巨鹏 |  ⭐⭐  | 三星效果 |  ⭐⭐⭐  | 五星效果 |  ⭐⭐⭐⭐⭐  |
 
 **要求**：
 
 1. 提前准备好PPT，周末发给组长预审，然后针对性修改；
-2. 提问环节，如果没人主动提问，分享人需要向与会者反问；
+2. 提问环节，如果无人主动提问，分享人有权向与会者反问；
 3. 没有解答出来的问题，会后分享人调研并整理，发到群里。
 
 ## 分享记录
@@ -50,7 +50,7 @@ ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 | 2024-10-21 | 王海腾 | 论文分享：GCNonBipartiteGraph | [GCNonBipartiteGraph](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241021-%E7%8E%8B%E6%B5%B7%E8%85%BE-GCNonBipartiteGraph.pdf) | [https://www.bilibili.com]()  |
 | 2024-11-04 | 李亚城 | 论文分享：人体动态场景重建 | [人体动态场景重建](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241104-%E6%9D%8E%E4%BA%9A%E5%9F%8E-%E4%BA%BA%E4%BD%93%E5%8A%A8%E6%80%81%E5%9C%BA%E6%99%AF%E9%87%8D%E5%BB%BA.pdf) | [https://www.bilibili.com]()  |
 | 2024-11-04 | 王硕 | 论文分享：sora速通 | [sora速通](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241104-%E7%8E%8B%E7%A1%95-sora%E9%80%9F%E9%80%9A.pdf) | [https://www.bilibili.com]()  |
-
+| 2024-12 | 摆冬冬 罗巨鹏 刘峻宇 李弋豪 | 论文分享：Agent AI | [Agent AI](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241202-%E6%91%86%E5%86%AC%E5%86%AC%20%E7%BD%97%E5%B7%A8%E9%B9%8F%20%E5%88%98%E5%B3%BB%E5%AE%87%20%E6%9D%8E%E5%BC%8B%E8%B1%AA-Agent%20AI.pdf) | [https://www.bilibili.com]()  |
 
 ## 候选题目
 
