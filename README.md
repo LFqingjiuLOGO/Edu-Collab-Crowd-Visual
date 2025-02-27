@@ -1,6 +1,6 @@
 # Edu-Collab-Crowd-Visual
 ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
-# 智慧教育-工业仿真-人群与运动-虚拟现实
+# 智慧教育-工业仿真-人体人群-虚实交互
 学术的仓库，人生的奥德赛。
 
 ## 学术寄语
@@ -19,14 +19,14 @@ ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 
 | 名字 | 分享次数 | 名字 | 分享次数 | 名字 | 分享次数 |
 |---|---|---|---|---|---|
-| 李弋豪 |  ⭐  | 芦紫妍 |    | 李亚城 |    |
+| 李弋豪 |  ⭐⭐  | 芦紫妍 |    | 李亚城 |  ⭐  |
 | 刘  畅 |    | 何宸洋 |    | 胡苓格 |    |
-| 陈宇婷 |    | 梁佳玮 |    | 王  硕 |    |
-| 刘峻宇 |  ⭐  | 关晓宇 |    | 刘楚云 |    |
+| 陈宇婷 |  ⭐  | 梁佳玮 |    | 王  硕 |  ⭐  |
+| 刘峻宇 |  ⭐⭐  | 关晓宇 |  ⭐  | 刘楚云 |    |
 | 王佳琪 |    | 侯瀚茗 |  ⭐  | 徐晗晖 |    |
-| 摆冬冬 |  ⭐  | 李坤泽 |    | 王梓宪 |    |
-| 唐睿达 |    | 王海腾 |    | 张博文 |    |
-| 罗巨鹏 |  ⭐  | 三星效果 |  ⭐⭐⭐  | 五星效果 |  ⭐⭐⭐⭐⭐  |
+| 摆冬冬 |  ⭐⭐  | 李坤泽 |  ⭐  | 王梓宪 |    |
+| 唐睿达 |    | 王海腾 |  ⭐  | 张博文 |    |
+| 罗巨鹏 |  ⭐⭐  | 三星效果 |  ⭐⭐⭐  | 五星效果 |  ⭐⭐⭐⭐⭐  |
 
 **要求**：
 
@@ -44,6 +44,12 @@ ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 | 2024-09-23 | 李弋豪 | 论文分享：GREIL-Crowds | [GREIL-Crowds](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20240923-%E6%9D%8E%E5%BC%8B%E8%B1%AA-GREIL-Crowds.pdf) | [https://www.bilibili.com]()  |
 | 2024-09-23 | 刘峻宇 | 论文分享：MAMBA | [MAMBA](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20240923-%E5%88%98%E5%B3%BB%E5%AE%87-mamba.pdf) | [https://www.bilibili.com]()  |
 | 2024-09-30 | 侯瀚茗 | 论文分享：PhysicallyBasedDL | [PhysicallyBasedDL](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20240930-%E4%BE%AF%E7%80%9A%E8%8C%97-PhysicallyBasedDL.pdf) | [https://www.bilibili.com]()  |
+| 2024-10-14 | 陈宇婷 | 论文分享：CHOIS | [CHOIS](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241014-%E9%99%88%E5%AE%87%E5%A9%B7-CHOIS.pdf) | [https://www.bilibili.com]()  |
+| 2024-10-14 | 李坤泽 | 论文分享：FootTextEntryforVRE | [FootTextEntryforVRE](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241014-%E6%9D%8E%E5%9D%A4%E6%B3%BD-FootTextEntryforVRE.pdf) | [https://www.bilibili.com]()  |
+| 2024-10-21 | 关晓宇 | 论文分享：TexttoAnything | [TexttoAnything](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241021-%E5%85%B3%E6%99%93%E5%AE%87-TexttoAnything.pdf) | [https://www.bilibili.com]()  |
+| 2024-10-21 | 王海腾 | 论文分享：GCNonBipartiteGraph | [GCNonBipartiteGraph](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241021-%E7%8E%8B%E6%B5%B7%E8%85%BE-GCNonBipartiteGraph.pdf) | [https://www.bilibili.com]()  |
+| 2024-11-04 | 李亚城 | 论文分享：人体动态场景重建 | [人体动态场景重建](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241104-%E6%9D%8E%E4%BA%9A%E5%9F%8E-%E4%BA%BA%E4%BD%93%E5%8A%A8%E6%80%81%E5%9C%BA%E6%99%AF%E9%87%8D%E5%BB%BA.pdf) | [https://www.bilibili.com]()  |
+| 2024-11-04 | 王硕 | 论文分享：sora速通 | [sora速通](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241104-%E7%8E%8B%E7%A1%95-sora%E9%80%9F%E9%80%9A.pdf) | [https://www.bilibili.com]()  |
 
 
 ## 候选题目
