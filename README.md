@@ -19,13 +19,13 @@ ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 
 | 名字 | 分享次数 | 名字 | 分享次数 | 名字 | 分享次数 |
 |---|---|---|---|---|---|
-| 李弋豪 |  ⭐⭐  | 李坤泽 |  ⭐  | 李亚城 |  ⭐  |
+| 李弋豪 |  ⭐⭐  | 李坤泽 |  ⭐⭐  | 李亚城 |  ⭐  |
 | 刘  畅 |    | 芦紫妍 |    | 王  硕 |  ⭐  |
 | 陈宇婷 |  ⭐  | 何宸洋 |    | 胡苓格 |    |
 | 刘峻宇 |  ⭐⭐  | 梁佳玮 |    | 刘楚云 |    |
 | 王佳琪 |    | 侯瀚茗 |  ⭐  | 徐晗晖 |    |
 | 摆冬冬 |  ⭐⭐  | 关晓宇 |  ⭐  | 王梓宪 |    |
-| 唐睿达 |    | 王海腾 |  ⭐  | 张博文 |    |
+| 唐瑞达 |  ⭐  | 王海腾 |  ⭐  | 张博文 |    |
 | 罗巨鹏 |  ⭐⭐  | 三星效果 |  ⭐⭐⭐  | 五星效果 |  ⭐⭐⭐⭐⭐  |
 
 **要求**：
@@ -42,15 +42,18 @@ ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 | 2024-09-09 | 罗巨鹏 | 论文分享：超图推荐系统 | [超图推荐](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20240909-%E7%BD%97%E5%B7%A8%E9%B9%8F-%E8%B6%85%E5%9B%BE%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F.pdf) | [https://www.bilibili.com]()  |
 | 2024-09-09 | 摆冬冬 | 论文分享：BinaryOpacityGrids | [BinaryOpacityGrids](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20240909-%E6%91%86%E5%86%AC%E5%86%AC-BinaryOpacityGrids.pdf) | [https://www.bilibili.com]()  |
 | 2024-09-23 | 李弋豪 | 论文分享：GREIL-Crowds | [GREIL-Crowds](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20240923-%E6%9D%8E%E5%BC%8B%E8%B1%AA-GREIL-Crowds.pdf) | [https://www.bilibili.com]()  |
-| 2024-09-23 | 刘峻宇 | 论文分享：MAMBA | [MAMBA](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20240923-%E5%88%98%E5%B3%BB%E5%AE%87-mamba.pdf) | [https://www.bilibili.com]()  |
-| 2024-09-30 | 侯瀚茗 | 论文分享：PhysicallyBasedDL | [PhysicallyBasedDL](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20240930-%E4%BE%AF%E7%80%9A%E8%8C%97-PhysicallyBasedDL.pdf) | [https://www.bilibili.com]()  |
+| 2024-09-23 | 刘峻宇 | 领域综述：MAMBA | [MAMBA](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20240923-%E5%88%98%E5%B3%BB%E5%AE%87-mamba.pdf) | [录制: 叫我老大(Noonell)的快速会议(https://meeting.tencent.com/crm/NX6QDXwK71)  |
+| 2024-09-30 | 侯瀚茗 | 领域综述：PhysicallyBasedDL | [PhysicallyBasedDL](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20240930-%E4%BE%AF%E7%80%9A%E8%8C%97-PhysicallyBasedDL.pdf) | [https://www.bilibili.com]()  |
 | 2024-10-14 | 陈宇婷 | 论文分享：CHOIS | [CHOIS](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241014-%E9%99%88%E5%AE%87%E5%A9%B7-CHOIS.pdf) | [https://www.bilibili.com]()  |
 | 2024-10-14 | 李坤泽 | 论文分享：FootTextEntryforVRE | [FootTextEntryforVRE](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241014-%E6%9D%8E%E5%9D%A4%E6%B3%BD-FootTextEntryforVRE.pdf) | [https://www.bilibili.com]()  |
-| 2024-10-21 | 关晓宇 | 论文分享：TexttoAnything | [TexttoAnything](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241021-%E5%85%B3%E6%99%93%E5%AE%87-TexttoAnything.pdf) | [https://www.bilibili.com]()  |
+| 2024-10-21 | 关晓宇 | 领域综述：TexttoAnything | [TexttoAnything](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241021-%E5%85%B3%E6%99%93%E5%AE%87-TexttoAnything.pdf) | [https://www.bilibili.com]()  |
 | 2024-10-21 | 王海腾 | 论文分享：GCNonBipartiteGraph | [GCNonBipartiteGraph](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241021-%E7%8E%8B%E6%B5%B7%E8%85%BE-GCNonBipartiteGraph.pdf) | [https://www.bilibili.com]()  |
 | 2024-11-04 | 李亚城 | 论文分享：人体动态场景重建 | [人体动态场景重建](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241104-%E6%9D%8E%E4%BA%9A%E5%9F%8E-%E4%BA%BA%E4%BD%93%E5%8A%A8%E6%80%81%E5%9C%BA%E6%99%AF%E9%87%8D%E5%BB%BA.pdf) | [https://www.bilibili.com]()  |
 | 2024-11-04 | 王硕 | 论文分享：sora速通 | [sora速通](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241104-%E7%8E%8B%E7%A1%95-sora%E9%80%9F%E9%80%9A.pdf) | [https://www.bilibili.com]()  |
-| 2024-12 | 摆冬冬 罗巨鹏 刘峻宇 李弋豪 | 论文分享：Agent AI | [Agent AI](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241202-%E6%91%86%E5%86%AC%E5%86%AC%20%E7%BD%97%E5%B7%A8%E9%B9%8F%20%E5%88%98%E5%B3%BB%E5%AE%87%20%E6%9D%8E%E5%BC%8B%E8%B1%AA-Agent%20AI.pdf) | [https://www.bilibili.com]()  |
+| 2024-12 | 摆冬冬 罗巨鹏 刘峻宇 李弋豪 | 领域综述：Agent AI | [Agent AI](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241202-%E6%91%86%E5%86%AC%E5%86%AC%20%E7%BD%97%E5%B7%A8%E9%B9%8F%20%E5%88%98%E5%B3%BB%E5%AE%87%20%E6%9D%8E%E5%BC%8B%E8%B1%AA-Agent%20AI.pdf) | [https://www.bilibili.com]()  |
+| 2025-03-04 | 唐瑞达 | 领域综述：ASurveyofDeepSeekModels.pdf | [ASurveyofDeepSeekModels](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20250304-%E5%94%90%E7%91%9E%E8%BE%BE-A%20Survey%20of%20DeepSeek%20Models.pdf) | [https://www.bilibili.com]()  |
+| 2024-03-18 | 李坤泽 | 论文分享：ADeepSeekofDeepSeekModels.pdf | [ADeepSeekofDeepSeekModels](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20250318-%E6%9D%8E%E5%9D%A4%E6%B3%BD-A%20Deep%20Seek%20of%20DeepSeek%20Models.pdf) | [https://www.bilibili.com]()  |
+
 
 ## 候选题目
 
