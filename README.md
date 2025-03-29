@@ -21,7 +21,7 @@ ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 |---|---|---|---|---|---|
 | 李弋豪 |  ⭐⭐  | 李坤泽 |  ⭐⭐  | 李亚城 |  ⭐  |
 | 刘  畅 |    | 芦紫妍 |    | 王  硕 |  ⭐  |
-| 陈宇婷 |  ⭐  | 何宸洋 |    | 胡苓格 |    |
+| 陈宇婷 |  ⭐⭐  | 何宸洋 |    | 胡苓格 |    |
 | 刘峻宇 |  ⭐⭐  | 梁佳玮 |    | 刘楚云 |    |
 | 王佳琪 |    | 侯瀚茗 |  ⭐  | 徐晗晖 |    |
 | 摆冬冬 |  ⭐⭐  | 关晓宇 |  ⭐  | 王梓宪 |    |
@@ -51,7 +51,8 @@ ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 | 2024-11-04 | 王硕 | 论文分享：sora速通 | [sora速通](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241104-%E7%8E%8B%E7%A1%95-sora%E9%80%9F%E9%80%9A.pdf) | [本地存储，请联系管理员]()  |
 | 2024-12 | 摆冬冬 罗巨鹏 刘峻宇 李弋豪 | 领域综述：Agent AI | [Agent AI](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20241202-%E6%91%86%E5%86%AC%E5%86%AC%20%E7%BD%97%E5%B7%A8%E9%B9%8F%20%E5%88%98%E5%B3%BB%E5%AE%87%20%E6%9D%8E%E5%BC%8B%E8%B1%AA-Agent%20AI.pdf) | [404Not Found](https://www.bilibili.com/video/BV12W411B7aw)  |
 | 2025-03-04 | 唐瑞达 | 领域综述：ASurveyofDeepSeekModels.pdf | [ASurveyofDeepSeekModels](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20250304-%E5%94%90%E7%91%9E%E8%BE%BE-A%20Survey%20of%20DeepSeek%20Models.pdf) | [404Not Found](https://www.bilibili.com/video/BV12W411B7aw)  |
-| 2024-03-18 | 李坤泽 | 论文分享：ADeepSeekofDeepSeekModels.pdf | [ADeepSeekofDeepSeekModels](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20250318-%E6%9D%8E%E5%9D%A4%E6%B3%BD-A%20Deep%20Seek%20of%20DeepSeek%20Models.pdf) | [本地存储，请联系管理员]()  |
+| 2025-03-18 | 李坤泽 | 论文分享：ADeepSeekofDeepSeekModels.pdf | [ADeepSeekofDeepSeekModels](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20250318-%E6%9D%8E%E5%9D%A4%E6%B3%BD-A%20Deep%20Seek%20of%20DeepSeek%20Models.pdf) | [本地存储，请联系管理员]()  |
+| 2025-03-25 | 陈宇婷 | 论文分享：WHAM | [WHAM](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20250325-%E9%99%88%E5%AE%87%E5%A9%B7-WHAM.pdf) | [404Not Found](https://www.bilibili.com/video/BV12W411B7aw)  |
 
 ## 候选题目
 
