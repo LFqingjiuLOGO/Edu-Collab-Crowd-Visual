@@ -26,7 +26,7 @@ ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 | 王佳琪 |    | 侯瀚茗 |  ⭐  | 徐晗晖 |    |
 | 摆冬冬 |  ⭐⭐  | 关晓宇 |  ⭐  | 王梓宪 |    |
 | 唐瑞达 |  ⭐  | 王海腾 |  ⭐  | 张博文 |    |
-| 罗巨鹏 |  ⭐⭐  | 三星效果 |  ⭐⭐⭐  | 五星效果 |  ⭐⭐⭐⭐⭐  |
+| 罗巨鹏 |  ⭐⭐⭐  | 三星效果 |  ⭐⭐⭐  | 五星效果 |  ⭐⭐⭐⭐⭐  |
 
 **要求**：
 
@@ -53,6 +53,8 @@ ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 | 2025-03-04 | 唐瑞达 | 领域综述：ASurveyofDeepSeekModels.pdf | [ASurveyofDeepSeekModels](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20250304-%E5%94%90%E7%91%9E%E8%BE%BE-A%20Survey%20of%20DeepSeek%20Models.pdf) | [404Not Found](https://www.bilibili.com/video/BV12W411B7aw)  |
 | 2025-03-18 | 李坤泽 | 论文分享：ADeepSeekofDeepSeekModels.pdf | [ADeepSeekofDeepSeekModels](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20250318-%E6%9D%8E%E5%9D%A4%E6%B3%BD-A%20Deep%20Seek%20of%20DeepSeek%20Models.pdf) | [本地存储，请联系管理员]()  |
 | 2025-03-25 | 陈宇婷 | 论文分享：WHAM | [WHAM](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20250325-%E9%99%88%E5%AE%87%E5%A9%B7-WHAM.pdf) | [404Not Found](https://www.bilibili.com/video/BV12W411B7aw)  |
+| 2025-04-15 | 罗巨鹏 | 领域综述：4DMotionEffectsGeneration | [4DMotionEffectsGeneration](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20250415-%E7%BD%97%E5%B7%A8%E9%B9%8F-4DMotionEffectsGeneration.pdf) | [本地存储，请联系管理员]()  |
+
 
 ## 候选题目
 
