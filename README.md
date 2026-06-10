@@ -19,15 +19,15 @@ ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 
 | 博士   | 分享次数 | 研三   | 分享次数 | 研二   | 分享次数 | 研一   | 分享次数 |
 | ------- | ----- | ------- | ---- | ---- | ---- | ------- | ---- |
-| ~~李弋豪~~ | ⭐⭐    | ~~芦紫妍~~ |      | 李亚城  | ⭐    | 王保磊     |      |
+| ~~李弋豪~~ | ⭐⭐ | ~~芦紫妍~~ |      | 李亚城  | ⭐    | 王保磊     |      |
 | 刘  畅     |       | ~~何宸洋~~ |      | 王  硕 | ⭐    | 张浩      |      |
-| 陈宇婷     | ⭐⭐    | ~~梁佳玮~~ |      | 刘楚云  |      | 江赫      |      |
-| 刘峻宇     | ⭐⭐🌙  | 关晓宇     | ⭐    | 徐晗晖  |      | 丁祥照     |      |
+| 陈宇婷     | ⭐⭐🌙 | ~~梁佳玮~~ |      | 刘楚云  |🌙    | 江赫      |      |
+| 刘峻宇     | ⭐⭐🌙 | 关晓宇     | ⭐    | 徐晗晖  |      | 丁祥照     |      |
 | 王佳琪     |       | 王海腾     | ⭐    | 胡苓格  |      | 吴疆      |      |
-| 摆冬冬     | ⭐⭐    | 侯瀚茗     | ⭐    |      |      | 张帅      |      |
-| 唐瑞达     | ⭐     | 王梓宪     |      |      |      | **本科**  |      |
-| 罗巨鹏     | ⭐⭐⭐🌙 | 张博文     |      |      |      | 陈嘉豪     | 🌙   |
-| 李坤泽     | ⭐⭐    |         |      |      |      | 彭登宇     |      |
+| 摆冬冬     | ⭐⭐🌙 | 侯瀚茗     | ⭐    |      |      | 张帅      |      |
+| 唐瑞达     | ⭐🌙 | 王梓宪     |      |      |      | **本科**  |      |
+| 罗巨鹏     | ⭐⭐⭐🌙🌙🌙 | 张博文     |      |      |      | 陈嘉豪     | 🌙   |
+| 李坤泽     | ⭐⭐   |         |      |      |      | 彭登宇     |      |
 | 王子昂     |       |         |      |      |      |         |      |
 | 曾玥晨     |       | 2025    | ⭐    | 2026 | 🌙   | ~~删除线~~ | 已毕业  |
 
@@ -60,5 +60,11 @@ ECCV: Adventure in Academia Archive, Odyssey of Scholars' Achievements.
 | 2025-04-15 | 罗巨鹏 | 领域综述：4DMotionEffectsGeneration | [4DMotionEffectsGeneration](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20250415-%E7%BD%97%E5%B7%A8%E9%B9%8F-4DMotionEffectsGeneration.pdf) | [本地存储，请联系管理员]()  |
 | 2026-03-25 | 陈嘉豪 | 技术分享：CUDA编程 | [CUDA编程](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20260325-%E9%99%88%E5%98%89%E8%B1%AA-CUDA%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB.pdf) | [本地存储，请联系管理员]()  |
 | 2026-04-01 | 全体成员 | 技术分享：Vibe Coding 实践 | [404Not Found](https://www.bilibili.com/video/BV12W411B7aw) | [本地存储，请联系管理员]()  |
-| 2026-04-08 | 刘峻宇 | 学术分享：量子计算基础及AI应用 | [量子计算基础及AI应用](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20260408-%E5%88%98%E5%B3%BB%E5%AE%87-%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E5%9F%BA%E7%A1%80%E5%8F%8AAI%E5%BA%94%E7%94%A8.pdf) | [本地存储，请联系管理员]()  |
+| 2026-04-08 | 刘峻宇 | 领域综述：量子计算基础及AI应用 | [量子计算基础及AI应用](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20260408-%E5%88%98%E5%B3%BB%E5%AE%87-%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E5%9F%BA%E7%A1%80%E5%8F%8AAI%E5%BA%94%E7%94%A8.pdf) | [本地存储，请联系管理员]()  |
 | 2026-04-15 | 罗巨鹏 | 技术分享：AI科研辅助：文生图 | [AI科研辅助：文生图](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20260415-%E7%BD%97%E5%B7%A8%E9%B9%8F-AI%E7%A7%91%E7%A0%94%E8%BE%85%E5%8A%A9%EF%BC%9A%E6%96%87%E7%94%9F%E5%9B%BE.pdf) | [本地存储，请联系管理员]()  |
+| 2026-04-22 | 唐瑞达 | 论文分享：基于大小模型协同的人群规划和仿真研究 | [基于大小模型协同的人群规划和仿真研究](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20260422-%E5%94%90%E7%91%9E%E8%BE%BE-%E5%9F%BA%E4%BA%8E%E5%A4%A7%E5%B0%8F%E6%A8%A1%E5%9E%8B%E5%8D%8F%E5%90%8C%E7%9A%84%E4%BA%BA%E7%BE%A4%E8%A7%84%E5%88%92%E5%92%8C%E4%BB%BF%E7%9C%9F%E7%A0%94%E7%A9%B6.pdf) | [本地存储，请联系管理员]()  |
+| 2026-04-29 | 罗巨鹏 | 技术分享：AI科研辅助：论文初探 | [AI科研辅助：论文初探](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20260429-%E7%BD%97%E5%B7%A8%E9%B9%8F-AI%E7%A7%91%E7%A0%94%E8%BE%85%E5%8A%A9%EF%BC%9A%E8%AE%BA%E6%96%87%E5%88%9D%E6%8E%A2.pdf) | [本地存储，请联系管理员]()  |
+| 2026-05-13 | 摆冬冬 | 领域综述：三维重建中的几何提升方法 | [三维重建中的几何提升方法](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20260513-%E6%91%86%E5%86%AC%E5%86%AC-%E4%B8%89%E7%BB%B4%E9%87%8D%E5%BB%BA%E4%B8%AD%E7%9A%84%E5%87%A0%E4%BD%95%E6%8F%90%E5%8D%87%E6%96%B9%E6%B3%95.pdf) | [【精修版】本地存储，请联系管理员]()  |
+| 2026-05-20 | 刘楚云 | 技术分享：AI科研辅助：代码复现 | [AI科研辅助：代码复现](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20260520-%E5%88%98%E6%A5%9A%E4%BA%91-AI%E7%A7%91%E7%A0%94%E8%BE%85%E5%8A%A9%EF%BC%9A%E4%BB%A3%E7%A0%81%E5%A4%8D%E7%8E%B0.pdf) | [本地存储，请联系管理员]()  |
+| 2026-06-03 | 陈宇婷 | 领域综述：XR&LLM | [XR&LLM](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20260603-%E9%99%88%E5%AE%87%E5%A9%B7-XR%26LLM.pdf) | [本地存储，请联系管理员]()  |
+| 2026-06-10 | 罗巨鹏 | 领域综述：KnowledgeOrganization&TopicModeling | [KnowledgeOrganization&TopicModeling](https://github.com/LFqingjiuLOGO/Edu-Collab-Crowd-Visual/blob/main/%E8%81%9A%E6%85%A7%E9%98%81/20260610-%E7%BD%97%E5%B7%A8%E9%B9%8F-KnowledgeOrganization%26TopicModeling.pdf) | [本地存储，请联系管理员]()  |
